@@ -16,11 +16,11 @@ https://github.com/Soham-Gaonkar/STTAI-Assignment11-QuantizationTechniques
 
 
 ## Testing & Benchmarking
-| Model Type            | Model Size | Total Inference Time (s) | Test Loss | Test Accuracy |
-| --------------------- | ---------: | -----------------: | --------: | ------------: |
-| Full Precision (FP32) | 20.19 MB   | 0.29               | 1.1674    | 0.7875        |
-| Dynamic Quantized     |  5.06 MB   | 0.28               | 1.1662    | 0.7875        |
-| Half Precision (FP16) | 10.10 MB   | 0.46               | 1.1672    | 0.7875        |
+| Model Type            | Model Size | Total Inference Time (s) | Test Accuracy |
+| --------------------- | ---------: | -----------------: | ------------: |
+| Full Precision (FP32) | 20.19 MB   | 0.29                | 0.7875        |
+| Dynamic Quantized     |  5.06 MB   | 0.28                   | 0.7875        |
+| Half Precision (FP16) | 10.10 MB   | 0.46                  | 0.7875        |
 
 For average inference time , divide total inference time by number of test samples (800)
 
