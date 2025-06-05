@@ -7,7 +7,7 @@
 ## LAB 11: Quantization Techniques
 **Group 7**  
 - Soham Gaonkar (23110314)  
-- Chaitanya Sharma (23110172)  
+- Chaitanya Sharma (23110072)  
 
 **GitHub Repository:**  
 https://github.com/Soham-Gaonkar/STTAI-Assignment11-QuantizationTechniques
